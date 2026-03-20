@@ -31,3 +31,4 @@
 /home/t0xic/Desktop/general-clinic/backend/obj/Debug/net10.0/backend.pdb
 /home/t0xic/Desktop/general-clinic/backend/obj/Debug/net10.0/backend.genruntimeconfig.cache
 /home/t0xic/Desktop/general-clinic/backend/obj/Debug/net10.0/ref/backend.dll
+/home/t0xic/Desktop/general-clinic/backend/obj/Debug/net10.0/backend.sourcelink.json
