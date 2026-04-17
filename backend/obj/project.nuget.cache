@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mmq6/c48cJI=",
+  "dgSpecHash": "NJXUn+NtN7k=",
   "success": true,
-  "projectFilePath": "/home/t0xic/Desktop/general-clinic/backend/backend.csproj",
+  "projectFilePath": "/home/t0xic/Desktop/clinica-project/backend/backend.csproj",
   "expectedPackageFiles": [
     "/home/t0xic/.nuget/packages/microsoft.aspnetcore.openapi/10.0.4/microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
     "/home/t0xic/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"

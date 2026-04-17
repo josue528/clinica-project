@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/t0xic/Desktop/general-clinic/backend/backend.csproj",
+      "projectUniqueName": "/home/t0xic/Desktop/clinica-project/backend/backend.csproj",
       "projectName": "backend",
-      "projectPath": "/home/t0xic/Desktop/general-clinic/backend/backend.csproj",
+      "projectPath": "/home/t0xic/Desktop/clinica-project/backend/backend.csproj",
       "packagesPath": "/home/t0xic/.nuget/packages/",
-      "outputPath": "/home/t0xic/Desktop/general-clinic/backend/obj/",
+      "outputPath": "/home/t0xic/Desktop/clinica-project/backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/t0xic/.nuget/NuGet/NuGet.Config"
@@ -150,7 +150,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.104/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.106/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
